@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.item{
+    border: 1px solid black;
+    width: 500px;
+    margin: 10px;
+}
+.item1 {
+    padding: 10px;
+    background-color: #e9f2ff;
+    color: rgb(74, 138, 214);
+}
+p {
+    padding: 10px;
+}
+.item2 {
+    padding: 10px;
+}
+.item3 {
+    padding: 10px;
+}
+.item1 span {
+    text-align: right;
+}
+.item4 {
+    color: rgb(214, 116, 160);
+}

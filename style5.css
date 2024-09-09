@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.title{
+    border: 1px solid black;
+    width: 500px;
+    text-align: center;
+}
+p{
+    padding: 5px;
+    background-color: #f7f7f7;
+}
+h3{
+    padding: 10px;
+    padding-bottom: 5px;
+}
+.title-B{
+    padding-bottom: 10px;
+    padding-top: 0;
+}
+input{
+    padding: 5px;
+    background-color:#036ffc;
+    color: white;
+}
+.title-C{
+    border: 2px solid white;
+    margin: 10px;
+    margin-left: 190px;
+    margin-right: 190px;
+    padding: 10px;
+    background-color: #036ffc;
+    color: #f7f7f7;
+    border-radius: 10px;
+}
+.title-D{
+    padding: 5px;
+    background-color: #f7f7f7;
+}
